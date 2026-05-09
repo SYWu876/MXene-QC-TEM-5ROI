@@ -1,4 +1,4 @@
-# MXene QC TEM 5ROI
+# MXene QC TEM 5 ROI
 
 Reproducibility package for the manuscript **Resolving the MXene paradox by microscopy-conditioned variational quantum simulation**.
 
