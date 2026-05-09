@@ -1,0 +1,4 @@
+ensemble_type,beta_Ha_inv,avg_d_parallel_nm,avg_t_parallel_Ha,avg_Delta_Ha,avg_E0_Ha
+Geometric equal-area,0,0.713,0.531,0.216,-0.754
+Energy-biased ensemble,1,0.673,0.579,0.204,-0.79
+Energy-biased ensemble,3,0.572,0.702,0.173,-0.884
